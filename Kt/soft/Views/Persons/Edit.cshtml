@@ -1,0 +1,9 @@
+﻿
+@model Ktsoft.Models.Person
+
+@{
+    ViewData["Title"] = "Person";
+    Layout = "_Edit";
+    ViewData["ItemId"] = Model.Id;
+}
+<partial name="_EditPerson" />

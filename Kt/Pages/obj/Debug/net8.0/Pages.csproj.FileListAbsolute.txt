@@ -1,0 +1,12 @@
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\bin\Debug\net8.0\Kt.Pages.deps.json
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\bin\Debug\net8.0\Kt.Pages.dll
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\bin\Debug\net8.0\Kt.Pages.pdb
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\Pages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\Pages.AssemblyInfoInputs.cache
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\Pages.AssemblyInfo.cs
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\Pages.csproj.CoreCompileInputs.cache
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\Pages.sourcelink.json
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\Kt.Pages.dll
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\refint\Kt.Pages.dll
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\Kt.Pages.pdb
+C:\Users\ktroi\source\repos\KristinaRepo\Kt\Pages\obj\Debug\net8.0\ref\Kt.Pages.dll

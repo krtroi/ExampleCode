@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Ktsoft.Models.Person>
+@using Kt.Pages.Controls
+
+@{
+    ViewData["Title"] = "Person";
+    Layout = "_Index";
+
+}
+@Html.ShowTable(Model)
+

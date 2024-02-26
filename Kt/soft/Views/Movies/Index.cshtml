@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Ktsoft.Models.Movie>
+@using Kt.Pages.Controls
+
+@{
+    ViewData["Title"] = "Movie";
+    Layout = "_Index";
+
+}
+@Html.ShowTable(Model)
+

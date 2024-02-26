@@ -1,0 +1,9 @@
+﻿
+@model Ktsoft.Models.Movie
+
+@{
+    ViewData["Title"] = "Movie";
+    Layout = "_Edit";
+    ViewData["ItemId"] = Model.Id;
+}
+<partial name="_EditMovie" />
